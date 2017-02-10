@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//a
 double a[4][4] = {6, -2, 2, 4, 12, -8, 6, 10, 3, -13, 9, 3, -6, 4, 1, -18};
 double b[4] = {16, 26, -19, -34};
 double x[4] = {0,0,0,0};
