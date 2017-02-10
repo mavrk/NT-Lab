@@ -35,7 +35,7 @@ double f2_y(double x, double y){
 
 void inverse(double arr[2][2]){
     double det = (arr[0][0] * arr[1][1]) - (arr[0][1] * arr[1][0]);
-    //switch a,d
+    //switch a,da
     arr[0][0] = arr[0][0] + arr[1][1];
     arr[1][1] = arr[0][0] - arr[1][1];
     arr[0][0] = arr[0][0] - arr[1][1];
